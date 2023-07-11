@@ -238,6 +238,40 @@ main section {
 
 }
 
+
+/* customer review section */
+
+.review {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 40px 0;
+    margin-top: -10px;
+  }
+  
+  .customer-review {
+    /* max-width: 960px; */
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  
+  .review2 {
+    margin-bottom: 40px;
+  }
+  
+  .customer-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* margin: 0 auto 10px; */
+  }
+
+  
+  .customer-name {
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+  }
+
 /* footer section */
 
 .footer {
